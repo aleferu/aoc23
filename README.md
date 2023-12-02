@@ -2,13 +2,14 @@
 
 My take on [Advent of Code 2023](https://adventofcode.com/2023 "AOC23") using Python.
 
+## Where are the input files?
+
+Apparently input files are supposed to be ignored by git. I use the network tab of my Chrome web browser to create a cURL command, that way I can download the input files for each day in a easy way.
 
 ## Organization
 
-Each day (directory) will have three files:
+Each day (directory) will have two files:
 
-- `input.txt`: input of the problem.
-  - This file will be separated into two files, `input1.txt` and `input2.txt` if problems don't share the same input (I don't know if this will ever be the case).
 - `part1.py`: solution to the part one problem of that day.
 - `part2.py`: solution to the part two problem of that day.
 
