@@ -22,7 +22,19 @@ Right now no additional packages are needed so I'm not creating a `requirements.
 
 ## Will this repository be updated?
 
-Yes! As soon as I can, though. I'm currently studying so my time is limited.
+Yes! As soon as I can, though. I'm currently studying so my time is limited. Currently:
+
+| Problem       | Status    |
+| :-----------: | :-------: |
+| Day01 - Part1 | Solved    |
+| Day01 - Part2 | Solved    |
+| Day02 - Part1 | Solved    |
+| Day02 - Part2 | Solved    |
+| Day03 - Part1 | Solved    |
+| Day03 - Part2 | Unreached |
+| Day04 - Part1 | Unreached |
+| Day04 - Part2 | Unreached |
+| Not out       | Not out   |
 
 ## Additional information
 
