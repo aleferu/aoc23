@@ -32,7 +32,7 @@ Yes! As soon as I can, though. I'm currently studying so my time is limited. Cur
 | Day02 - Part2 | Solved    |
 | Day03 - Part1 | Solved    |
 | Day03 - Part2 | Solved    |
-| Day04 - Part1 | Unreached |
+| Day04 - Part1 | Solved    |
 | Day04 - Part2 | Unreached |
 | Day05 - Part1 | Unreached |
 | Day05 - Part2 | Unreached |
