@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 
 
-# Might refactor
-
-
 def is_symbol(c: str) -> bool:
     return not c.isnumeric() and c != '.'
 
